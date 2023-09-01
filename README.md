@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **DeepLearning And Java**
 
-- 🤝 I’m looking for help to **Deploy my ML project**
+- 🤝 I’m looking for someone who can create projects with me
 
 - 📫 How to reach me **https://www.linkedin.com/in/aman-prajapat-252a21216**
 
