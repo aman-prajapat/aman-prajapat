@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 
-- 🌱 I’m currently learning **DeepLearning And Java**
+- 🌱 I’m currently learning **Ai and DeepLearning**
 
 - 🤝 I’m looking for someone who can create projects with me
 
